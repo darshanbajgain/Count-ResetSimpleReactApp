@@ -7,6 +7,7 @@ function App() {
   const [message, setMessage] = useState(" ");
   const changeValue = () => {
     setCount(count + 1);
+    setMessage(" ");
   }
   const resetValue = () => {
     setCount(0)
