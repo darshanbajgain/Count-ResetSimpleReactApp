@@ -1,6 +1,7 @@
 ### Simple Counter App
 
 This is a simple counter app created with Tailwind and React. It has two buttons: a + button to increment the counter and a reset button to reset the counter to 0. If the counter is already 0 and the reset button is clicked, an error message will be displayed.
+# Live Preview: https://count-reset-simple-reactapp.netlify.app/
 
 ## Concept Used
 
