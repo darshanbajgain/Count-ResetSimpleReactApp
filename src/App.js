@@ -32,7 +32,7 @@ function App() {
         <button className="bg-white font-extrabold text-5xl font-montserrat text-cyan-400  m-5 px-8 py-4 rounded-3xl hover:bg-cyan-400 hover:text-white   transition 500" onClick={resetValue} >
           reset
         </button>
-        <p className= {isVisible?'transition 400 flex m-auto w-[80%] justify-center text-center px-6 py-8 bg-white rounded-2xl text-red-700 text-lg': 'none'}>
+        <p className='text-red-700 text-lg'>
           {message}
         </p>
       </div>
